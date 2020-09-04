@@ -1,4 +1,3 @@
-#Vector files
+# Vector Class
 
-
-This is my super cool repo with vector codes
+This is my awesome vector class from IN1910.
