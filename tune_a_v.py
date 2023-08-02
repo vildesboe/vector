@@ -136,7 +136,7 @@ def generate_prompt(instruction, input, output=None):
     if output:
         return f"""{system_prompt} USER: {msg} ASSISTANT: {output}"""
     else:
-        return f"""{system_prompt} USER: {msg} ASSISTANT: """
+        return f"""{system_prompt} USER: {msg} ASSISTANT:"""
 
 def generate_and_tokenize_prompt(data_point):
     full_prompt = generate_prompt(
