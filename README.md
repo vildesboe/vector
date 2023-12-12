@@ -2,4 +2,4 @@
 
 # Vector Class
 
-This is my awesome vector class from IN1910.
+Vector class and GitHub intro from IN1910.
